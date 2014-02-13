@@ -12,8 +12,8 @@ projects[radix][version] = 2.0
 
 projects[radix_layouts][type] = module
 projects[radix_layouts][download][type] = git
-projects[radix_layouts][download][revision] = ebf4763
-projects[radix_layouts][download][branch] = 7.x-1.x
+projects[radix_layouts][download][revision] = 695df33
+projects[radix_layouts][download][branch] = 7.x-2.x
 projects[radix_layouts][subdir] = contrib
 
 projects[radix_admin][type] = module
