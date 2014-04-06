@@ -16,4 +16,7 @@ If you are building a distribution with Radix as the base theme, you can include
     ; Radix
     projects[radix_core][version] = 3.x-dev
     projects[radix_core][subdir] = contrib
-    
+
+### Read more
+
+See the project page at http://drupal.org/project/radix_core.
