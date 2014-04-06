@@ -4,8 +4,8 @@ Brings all the Radix components (theme and modules) together.
 
 ### Which version do I need?
 
-For Radix 7.x-2.x, use Radix Core 7.x-2.x.
-For Radix 7.x-3.x, use Radix Core 7.x-3.x.
+* For Radix 7.x-2.x, use Radix Core 7.x-2.x.
+* For Radix 7.x-3.x, use Radix Core 7.x-3.x.
 
 ### Where is Radix Core used?
 
