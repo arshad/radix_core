@@ -7,7 +7,7 @@ core = 7.x
 
 projects[radix][type] = theme
 projects[radix][download][type] = git
-projects[radix][download][revision] = 1cb2e14
+projects[radix][download][revision] = da39ed0
 projects[radix][download][branch] = 7.x-3.x
 
 ; Radix Modules
