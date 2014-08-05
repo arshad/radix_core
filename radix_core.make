@@ -7,13 +7,16 @@ core = 7.x
 
 projects[radix][type] = theme
 projects[radix][download][type] = git
-projects[radix][download][revision] = da39ed0
 projects[radix][download][branch] = 7.x-3.x
 
 ; Radix Modules
 
 projects[radix_layouts][type] = module
 projects[radix_layouts][download][type] = git
-projects[radix_layouts][download][revision] = 8ddccfd
 projects[radix_layouts][download][branch] = 7.x-3.x
 projects[radix_layouts][subdir] = contrib
+
+projects[radix_views][type] = module
+projects[radix_views][download][type] = git
+projects[radix_views][download][branch] = 7.x-1.x
+projects[radix_views][subdir] = contrib
